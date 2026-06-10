@@ -1,7 +1,7 @@
 # Group 13 — PCA Formative 2
 **Course:** Mathematics for Machine Learning — ALU May Term 2026  
 **Group Members:** Hirwa Hebert Crispin · Mildred Ewenrim Ebomah    
-**GitHub Repo:** https://github.com/[yourn]/group13
+**GitHub Repo:(https://github.com/Hirwavsopps/PCA-Africa-Formative2)
 
 ## Dataset
 Africa Development Indicators — 12 Sub-Saharan African countries, 2010–2022.  
